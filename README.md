@@ -1,20 +1,20 @@
-# Hey, I'm Paul 👋
+# Paul (paluss1122)
 
-I'm a 14-year-old developer. I build things that remove a small annoyance from my day — Android apps, Python backends and automation.
+I'm 14 and I program. Most of what I build comes from wanting something that should exist already, so I write it myself.
 
-My main project is **Tabslify**, an all-in-one Android app built to replace a pile of single-purpose apps: media player, podcast and music downloader, 2FA authenticator, notes, browser, AI chat and more. It's written in Kotlin with Jetpack Compose and currently in beta.
+My main project is **Tabslify**, an Android app that puts a media player, podcast and music downloader, 2FA authenticator, notes, browser and AI chat in one place. It's written in Kotlin with Jetpack Compose and is in beta.
 
-I also run a **self-hosted smart home**: a Python server that controls my lights over Bluetooth, syncs files between my machines and gives my phone, tablet and laptop one place to talk to everything.
+I also run my own home server. It's a Python service that controls my lights over Bluetooth, keeps files in sync across my devices and provides a web dashboard and API for all of it.
 
-I started out with C# and Unity and made Roblox games with friends. These days I spend most of my time in Kotlin, Python and the browser.
+I got into programming with C# and Unity, built a few Roblox games with friends, and later moved to Kotlin, Python and web development.
 
-**What I work with:** `Kotlin` · `Jetpack Compose` · `Python` · `JavaScript` · `HTML/CSS` · `Supabase` · `systemd`
+Main tools: Kotlin, Jetpack Compose, Python, JavaScript, HTML/CSS, Supabase, systemd.
 
-**A couple of things I've built**
+## Projects
 
-- **Tabslify** — all-in-one Android app (Kotlin, beta)
-- **Handy.py** — my smart-home server (Python, self-hosted)
+- **Tabslify** - Android app (Kotlin): https://github.com/Paluss1122-1/Tabslify
+- **awox-mesh** - BLE control for AwoX/EGLO lamps (Python): https://github.com/Paluss1122-1/awox-mesh
+- **Games** - browser games (JavaScript): https://github.com/Paluss1122-1/Games
 
-More projects are on my [portfolio](https://paluss1122.netlify.app/).
-
-📫 `paluss1122@gmail.com`
+Portfolio: https://paluss1122.netlify.app/
+Email: paluss1122@gmail.com
