@@ -8,7 +8,7 @@ I also run my own home server. It's a Python service that controls my lights ove
 
 I got into programming with C# and Unity, built a few Roblox games with friends, and later moved to Kotlin, Python and web development.
 
-Main tools: Kotlin, Jetpack Compose, Python, JavaScript, HTML/CSS, Supabase, systemd.
+Main tools: Kotlin, Jetpack Compose, Python, JavaScript, HTML/CSS, Supabase.
 
 ## Projects
 
