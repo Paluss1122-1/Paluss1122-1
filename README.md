@@ -1,6 +1,6 @@
 # Paul (paluss1122)
 
-I'm 14 and I program. Most of what I build comes from wanting something that should exist already, so I write it myself.
+I'm 14 and I build software for myself. Some of it I make from scratch — like the smart home that runs my room — and some is existing software I bend until it works the way I want. Either way I write it from zero myself, using AI as a helper rather than copying someone else's code.
 
 My main project is **Tabslify**, an Android app that puts a media player, podcast and music downloader, 2FA authenticator, notes, browser and AI chat in one place. It's written in Kotlin with Jetpack Compose and is in beta.
 
