@@ -1,4 +1,4 @@
-# Paul (paluss1122)
+# Paul Schöttl (paul-schoettl)
 
 I'm 14 and I build software for myself. Some of it I make from scratch: like the smart home that runs my room, and some is existing software I bend until it works the way I want. Either way I write it from zero myself, using AI as a helper rather than copying someone else's code.
 
@@ -20,9 +20,10 @@ Main tools: Kotlin, Jetpack Compose, Python, JavaScript, HTML/CSS, Supabase.
 
 ## Projects
 
-- **Tabslify** - Android app (Kotlin): https://github.com/Paluss1122-1/Tabslify
-- **awox-mesh** - BLE control for AwoX/EGLO lamps (Python): https://github.com/Paluss1122-1/awox-mesh
-- **Games** - browser games (JavaScript): https://github.com/Paluss1122-1/Games
+- **Tabslify** - Android app (Kotlin): https://github.com/paul-schoettl/Tabslify
+- **awox-mesh** - BLE control for AwoX/EGLO lamps (Python): https://github.com/paul-schoettl/awox-mesh
+- **Games** - browser games (JavaScript): https://github.com/paul-schoettl/Games
+- **Portfolio** - the source of my site (HTML, CSS, JS): https://github.com/paul-schoettl/Portfolio
 
-Portfolio: https://paluss1122.netlify.app/
-Email: paluss1122@gmail.com
+Portfolio: https://paul-schoettl.netlify.app/
+Email: paul-schoettl12@gmail.com
